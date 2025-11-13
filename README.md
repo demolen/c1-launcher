@@ -1,4 +1,4 @@
-# C1-Launcher
+ # C1-Launcher
 
 An open-source replacement of [Crysis (2007)](https://en.wikipedia.org/wiki/Crysis_(video_game)) executables.
 It provides a better game and dedicated server launcher with additional features.
